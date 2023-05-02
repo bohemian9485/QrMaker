@@ -9,8 +9,8 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Tool for QR code generation")>
-<Assembly: AssemblyDescription("Tool for QR code generation")>
+<Assembly: AssemblyTitle("Generates QR code for WIFI connection")>
+<Assembly: AssemblyDescription("Generates QR code for WIFI connection")>
 <Assembly: AssemblyCompany("Reynaldo Ibarra C. Tubianosa")>
 <Assembly: AssemblyProduct("QrMaker.exe")>
 <Assembly: AssemblyCopyright("Reynaldo Ibarra C. Tubianosa Copyright ©  2023")>
@@ -32,8 +32,8 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.1215")>
-<Assembly: AssemblyFileVersion("1.0.0.1215")>
+<Assembly: AssemblyVersion("1.0.0.12372")>
+<Assembly: AssemblyFileVersion("1.0.0.12372")>
 <Assembly: NeutralResourcesLanguage("en-US")>
 
-<assembly: AssemblyInformationalVersion("0.0.0.1215")>
+<assembly: AssemblyInformationalVersion("0.0.0.12372")>
