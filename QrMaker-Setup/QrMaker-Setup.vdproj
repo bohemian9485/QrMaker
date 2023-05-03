@@ -52,12 +52,6 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_5BC0071157469E25419FE7468E15B98E"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_59DD4B6B05DD44C4A3D7067C3AFEC680"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -71,6 +65,12 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_8AF0EDA5DB2EC47898192C9B8A79742A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_5BC0071157469E25419FE7468E15B98E"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -123,6 +123,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -144,7 +152,7 @@
                 {
                 "Name" = "8:.NET Framework"
                 "Message" = "8:[VSDNETMSG]"
-                "FrameworkVersion" = "8:.NETFramework,Version=v4.7.2"
+                "FrameworkVersion" = "8:.NETFramework,Version=v4.8"
                 "AllowLaterVersions" = "11:FALSE"
                 "InstallUrl" = "8:http://go.microsoft.com/fwlink/?LinkId=863262"
                 }
@@ -332,15 +340,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:WIFI QR Code Generator"
-        "ProductCode" = "8:{75E13326-970C-456F-A6BE-E06F9AE5276C}"
-        "PackageCode" = "8:{AC333265-4556-4385-9161-C319E589FF64}"
+        "ProductCode" = "8:{6308649D-E776-42AB-AF1A-D6ED5F635DA2}"
+        "PackageCode" = "8:{DF30F09D-7784-4413-B3EC-9FA35B38EFF6}"
         "UpgradeCode" = "8:{4A5E9905-FE65-4EA5-A1FF-535DBCE41FCF}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:1.0.0"
+        "ProductVersion" = "8:1.0.1"
         "Manufacturer" = "8:Reynaldo Ibarra C. Tubianosa"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
