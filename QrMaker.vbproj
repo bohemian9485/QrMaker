@@ -146,6 +146,7 @@
   <ItemGroup>
     <None Include="show.png" />
     <None Include="hide.png" />
+    <None Include="github.png" />
     <Content Include="qr.ico" />
     <None Include="qr.png" />
   </ItemGroup>
