@@ -130,6 +130,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -340,15 +348,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:WIFI QR Code Generator"
-        "ProductCode" = "8:{6308649D-E776-42AB-AF1A-D6ED5F635DA2}"
-        "PackageCode" = "8:{DF30F09D-7784-4413-B3EC-9FA35B38EFF6}"
+        "ProductCode" = "8:{75E34FAD-F030-4E58-B331-D6C4F6F0D636}"
+        "PackageCode" = "8:{73F90DC9-EF22-4BDC-9CA5-12B9B5923E5E}"
         "UpgradeCode" = "8:{4A5E9905-FE65-4EA5-A1FF-535DBCE41FCF}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:1.0.1"
+        "ProductVersion" = "8:1.0.2"
         "Manufacturer" = "8:Reynaldo Ibarra C. Tubianosa"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
